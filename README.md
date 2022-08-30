@@ -1,6 +1,14 @@
-#git clone https://github.com/PR3SH4KBAU/JAYBAPPA 
+git clone https://github.com/PR3SH4KBAU/JAYBAPPA 
+
+
 ls 
-cd JAYBAPPA 
+
+
+cd JAYBAPPA  
+
+
 ls 
-python vip_enc.py
+
+
+python vipp_enc.py 
 
